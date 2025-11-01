@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI <br>👯 I’m looking to collaborate on web projects<br>🤝 I’m looking for help with linux<br>🌱 I’m currently learning python<br>💬 Ask me about my social life<br>⚡ Fun fact what we know is drop!
+🔭 I’m currently working on NutriTrack <br>👯 I’m looking to collaborate on web projects<br>🤝 I’m looking for help with linux<br>🌱 I’m currently learning python<br>💬 Ask me about my social life<br>⚡ Fun fact what we know is drop!
 
 
 ## 🌐 Socials:
