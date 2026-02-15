@@ -1,6 +1,6 @@
 #  About Me:
- Hi, I am Aaditya.
- I’m currently working on NutriTrack 
+ - Hi, I am Aaditya.
+ - I’m currently working on NutriTrack 
 
 
 ##  Socials:
