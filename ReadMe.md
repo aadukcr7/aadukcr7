@@ -1,5 +1,5 @@
 #  About Me:
- - Hi, I am Aaditya.
+                                   Hi, I am Aaditya.
  - I’m currently working on NutriTrack 
 
 
