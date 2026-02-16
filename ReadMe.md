@@ -16,7 +16,7 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aadukcr7&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# ![Profile views](https://komarev.com/ghpvc/?username=aadukcr7&color=blue)
+
