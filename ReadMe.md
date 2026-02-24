@@ -1,5 +1,5 @@
 #  About Me:
-  Hi, I am Aaditya.
+ <h1 align="center">Hi, I am Aaditya.</h1>
  - I’m currently working on NutriTrack 
 
 
