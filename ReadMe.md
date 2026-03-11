@@ -1,6 +1,6 @@
 #  About Me:
  <h1 align="center">Hi, I am Aaditya.</h1>
- - I’m currently working on NutriTrack 
+ - currently working on NutriTrack 
 
 
 ##  Socials:
