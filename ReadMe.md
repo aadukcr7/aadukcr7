@@ -1,17 +1,33 @@
-#  About Me:
- <h1 align="center">Hi, I am Aaditya.</h1>
- - currently working on NutriTrack 
+# 👋 Hi, I'm Aaditya
 
+Passionate about building impactful projects, solving challenging problems, and continuously learning new technologies.
 
-##  Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/e4JgfcYq) 
+Currently, I'm developing **NutriTrack**, a project focused on helping users make better nutrition and health decisions through technology.
 
-#  Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+### 🚀 What I Focus On
 
+* Creating practical and user-centered solutions
+* Building scalable and maintainable applications
+* Exploring new technologies and development practices
 
+### 🛠️ Technical Skills
 
+* **Languages:** C, C++, Python
+* **Frameworks & Tools:** Qt, NestJS
+* **Interests:** Backend Systems, Desktop Applications, System Design
 
----
+### 🌱 Currently Learning
 
+* Advanced backend architecture
+* Scalable system design
+* Modern development workflows
 
+### 🎯 Goals
+
+* Build products that create real-world impact
+* Contribute to meaningful projects
+* Continuously improve and expand my technical knowledge
+
+### 📫 Connect With Me
+
+Always open to collaboration, learning opportunities, and discussions about technology and innovation.
