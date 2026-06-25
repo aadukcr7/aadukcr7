@@ -1,33 +1,32 @@
-# 👋 Hi, I'm Aaditya
+<h1 align="center">Hi 👋, I'm Aaditya</h1>
 
-Passionate about building impactful projects, solving challenging problems, and continuously learning new technologies.
+<p align="center">
+Building things, solving problems, and learning something new every day.
+</p>
 
-Currently, I'm developing **NutriTrack**, a project focused on helping users make better nutrition and health decisions through technology.
+<p align="center">
+🚀 Currently working on <b>NutriTrack</b><br>
+🌱 Exploring backend systems, system design, and modern development practices<br>
+⚡ Turning ideas into practical and impactful projects
+</p>
 
-### 🚀 What I Focus On
+## 🛠️ Tech Stack
 
-* Creating practical and user-centered solutions
-* Building scalable and maintainable applications
-* Exploring new technologies and development practices
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+</p>
 
-### 🛠️ Technical Skills
+## 🎯 Focus
 
-* **Languages:** C, C++, Python
-* **Frameworks & Tools:** Qt, NestJS
-* **Interests:** Backend Systems, Desktop Applications, System Design
+* Building scalable applications
+* Learning modern technologies
+* Creating practical solutions
+* Contributing to meaningful projects
 
-### 🌱 Currently Learning
-
-* Advanced backend architecture
-* Scalable system design
-* Modern development workflows
-
-### 🎯 Goals
-
-* Build products that create real-world impact
-* Contribute to meaningful projects
-* Continuously improve and expand my technical knowledge
-
-### 📫 Connect With Me
-
-Always open to collaboration, learning opportunities, and discussions about technology and innovation.
+<p align="center">
+  <i>"Stay curious. Keep building."</i>
+</p>
